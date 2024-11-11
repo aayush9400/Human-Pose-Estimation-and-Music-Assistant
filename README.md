@@ -1,5 +1,3 @@
-Here's an improved version of the README file with clearer structure, formatting, and language:
-
 ---
 
 # Human-Pose-Estimation-and-Music-Assistant
